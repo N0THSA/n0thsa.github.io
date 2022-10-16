@@ -14,7 +14,7 @@ const database = [
 	{
 		searchName: "test1",
 		searchDesc: "Woohoo! is an all in one search engine for the IntWeb, operated by the creators of the IntWeb."
-	}
+	},
 	
 ];
 
