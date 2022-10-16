@@ -1,4 +1,4 @@
-const database = [ // HELP
+const database = [
 	{
 		searchName: "Woohoo!",
 		searchDesc: "Woohoo! is an all in one search engine for the IntWeb, operated by the creators of the IntWeb."
@@ -14,6 +14,8 @@ const database = [ // HELP
 	{
 		searchName: "test1",
 		searchDesc: "Woohoo! is an all in one search engine for the IntWeb, operated by the creators of the IntWeb."
-	},
+	}
 	
 ];
+
+// HOURS WASTED HERE: 2
